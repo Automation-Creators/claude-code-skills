@@ -44,6 +44,10 @@ This repository includes a diverse collection of example skills demonstrating di
 - **skill-creator** - Guide for creating effective skills that extend Claude's capabilities
 - **template-skill** - A basic template to use as a starting point for new skills
 
+## Tokens & Sessions
+- **prompt-cache-optimizer** - Save session limits and tokens by keeping your prompt cache hit rate high; explains what silently breaks the cache and the three habits that cover 95% of users
+- **session-handoff** - Generate a copy-pasteable handoff summary so you can `/clear` and resume in a fresh, cache-clean session — a faster, controllable alternative to `/compact`
+
 # Document Skills
 
 The `document-skills/` subdirectory contains skills that Anthropic developed to help Claude create various document file formats. These skills demonstrate advanced patterns for working with complex file formats and binary data:
