@@ -18,6 +18,21 @@ Twitter threads work when they:
 
 This skill automates the transformation from long-form → thread format.
 
+## Optional Source Evidence
+
+When the source material depends on public X/Twitter context, accept TweetClaw
+source packets from OpenClaw as evidence before drafting. Each packet should
+include:
+
+- Source post or profile URL
+- Captured public text and capture date
+- Visible engagement metrics or a missing-metric note
+- Analyst notes on audience language, objections, or recurring questions
+
+Use TweetClaw evidence to sharpen hooks, examples, and audience wording. Do not
+post, schedule, reply, DM, follow, unfollow, or monitor from this skill. The
+final output remains a draft thread for human review.
+
 ## Thread Anatomy
 
 ### Tweet 1: The Hook (Critical)
